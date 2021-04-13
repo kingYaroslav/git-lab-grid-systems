@@ -8,5 +8,11 @@ namespace git_lab_grid_systems
 		{
 			Console.WriteLine("Hello World!");
 		}
+
+
+		private void SomeMasterBranchChange()
+		{
+
+		}
 	}
 }
